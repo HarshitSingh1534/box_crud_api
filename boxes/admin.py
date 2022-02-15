@@ -1,3 +1,4 @@
 from django.contrib import admin
-
-# Register your models here.
+from boxes.models import Boxes
+# Register your models here
+admin.site.register(Boxes)
