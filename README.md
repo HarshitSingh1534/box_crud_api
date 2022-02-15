@@ -1,3 +1,32 @@
+API ENDPOINTS
+
+
+STAFF SIGNUP PAGE: http://127.0.0.1:8000/accounts/staff-signup/
+
+
+LOGIN PAGE: http://127.0.0.1:8000/accounts/login/
+
+
+LOGOUT PAGE: http://127.0.0.1:8000/accounts/logout/
+
+
+LISTING ALL THE BOXES CREATED EVER BY ALL USERS: http://127.0.0.1:8000/boxes/list-all-boxes
+
+
+CREATING A BOX: http://127.0.0.1:8000/boxes/create-box
+
+
+UPDATING THE DIMENSIONS OF BOX: http://127.0.0.1:8000/boxes/update-box/uuid
+
+
+LISTING ALL BOXES CREATED BY SIGNED IN USER: http://127.0.0.1:8000/boxes/list-my-boxes
+
+
+DELETING A BOX: http://127.0.0.1:8000/boxes/delete-box/uuid
+
+
+
+
 Title:
 API Service for CRUD
 
